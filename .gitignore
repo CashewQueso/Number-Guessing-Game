@@ -1,0 +1,19 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Log and temp files
+*.log
+*.tmp
+
+# OS-specific stuff
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Editor swap/backup files
+*.swp
+*.swo
+*~
+
+# VSCode settings (if you use it)
+.vscode/
